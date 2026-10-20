@@ -35,7 +35,7 @@ Total profit	$286,397
 Profit margin	12.03%
 Units sold	37,873
 
-###Business Questions and Findings
+### Business Questions and Findings
 
 1. What is overall performance? $2.30M in sales and $286K profit (12.5% margin) and 37,873 units.
 
